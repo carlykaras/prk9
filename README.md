@@ -1,15 +1,8 @@
 PRK9
 
-3 digital dogs
--accidentally cause a well-used program to malfunction
--have 3 different abilities to weed out bugs/malfunctions
--must stop the other programs from being corrupted
-
-MAL
--starts corrupting other programs
-
-Pixel art
-Programs are levels, ending in the MAL program as final stage
-Digital dogs have doglike abilities - sniff, lick, bark, eat?
-
-
+8-bit Debug Style Game
+  * Seek through digital environments searching for bugs
+  * Dogs are directed by their owner, a developer and scientist
+  * Dogs gain abilities over the course of the game?
+  * Linear progression through game, ala "final boss"
+    * Replay value?
