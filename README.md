@@ -6,3 +6,13 @@ PRK9
   * Dogs gain abilities over the course of the game?
   * Linear progression through game, ala "final boss"
     * Replay value?
+
+Style:
+  * Side-scroller
+  * Pixel Graphics + Special Effects
+  * Different dog types:
+    * Basset Hound
+    * French Bulldog
+    * Australian Cattle Dog
+    * Pitbull
+    * Black Russian Terrier
